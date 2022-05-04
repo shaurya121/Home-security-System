@@ -40,7 +40,7 @@ while True:
         smtp.ehlo()
         smtp.starttls()
         emailaddress='8as1931140@gmail.com'
-        smtp.login('8as1931140@gmail.com', '@shaurya1')
+        smtp.login('8as1931140@gmail.com', '*****rya1')
         msg=MIMEMultipart()
         img_data=open(filename, 'rb').read()
         msg['From']='8as1931140@gmail.com'
