@@ -5,14 +5,15 @@ A Raspberry Pi based intruder alert system which sends the photo of the suspicio
 
 
 ## Screenshots
-Raspberry Pi 3B+
-![App Screenshot](https://raw.githubusercontent.com/shaurya121/Home-security-System/main/Screenshots/Rpi.jpg/468x300?text=Hello_world)
 Pinout
 ![App Screenshot](https://raw.githubusercontent.com/shaurya121/Home-security-System/main/Screenshots/pinout.png)
+
+Raspberry Pi 3B+
+![App Screenshot](https://raw.githubusercontent.com/shaurya121/Home-security-System/main/Screenshots/Rpi.jpg)
+
 Motion Sensor
 ![App Screenshot](https://raw.githubusercontent.com/shaurya121/Home-security-System/main/Screenshots/motion%20detector.jpg)
-Idle State
-![App Screenshot](https://raw.githubusercontent.com/shaurya121/Home-security-System/main/Screenshots/inactive.jpg)
+
 When Someone Enters
 ![App Screenshot](https://raw.githubusercontent.com/shaurya121/Home-security-System/main/Screenshots/active.jpg)
 ## Installation
