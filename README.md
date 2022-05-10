@@ -6,7 +6,7 @@ A Raspberry Pi based intruder alert system which sends the photo of the suspicio
 
 ## Screenshots
 Raspberry Pi 3B+
-![App Screenshot](https://raw.githubusercontent.com/shaurya121/Home-security-System/main/Screenshots/Rpi.jpg)
+![App Screenshot](https://raw.githubusercontent.com/shaurya121/Home-security-System/main/Screenshots/Rpi.jpg/468x300?text=Hello_world)
 Pinout
 ![App Screenshot](https://raw.githubusercontent.com/shaurya121/Home-security-System/main/Screenshots/pinout.png)
 Motion Sensor
