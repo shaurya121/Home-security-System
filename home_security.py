@@ -5,10 +5,8 @@ import os
 from ftplib import FTP
 from datetime import datetime
 from gpiozero import MotionSensor
-from picamera import PiCamera
 
 import RPi.GPIO as GPIO
-
 GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(7, GPIO.IN)             # pin no. 7 (Button Mode)
@@ -30,7 +28,6 @@ while True:
 
         print("Sending an email")
         import smtplib
-        import os
         from email.mime.multipart import MIMEMultipart
         from email.mime.text import MIMEText
         from email.mime.base import MIMEBase
